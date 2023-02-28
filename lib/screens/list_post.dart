@@ -3,7 +3,6 @@ import 'package:flutter/material.dart';
 import 'package:psmna10/database/database_helper.dart';
 import 'package:psmna10/models/post_model.dart';
 
-
 class ListPost extends StatefulWidget {
   const ListPost({super.key});
 
